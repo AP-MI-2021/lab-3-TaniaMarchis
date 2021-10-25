@@ -192,7 +192,7 @@ def main():
                 print(get_longest_all_palindromes(l))
             elif optiune == "5":
                 break
-        else:
-            print("Optiune gresita! Reincercati!")
+            else:
+                print("Optiune gresita! Reincercati!")
 
 main()
